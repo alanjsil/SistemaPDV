@@ -1,0 +1,20 @@
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\ExportarParaArquivo.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\ExportarParaArquivo.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\NRtfTree.dll
+C:\Projetos\T2Ti ERP 2.0\C#\Componentes\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\ExportarParaArquivo.dll
+C:\Projetos\T2Ti ERP 2.0\C#\Componentes\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\ExportarParaArquivo.pdb
+C:\Projetos\T2Ti ERP 2.0\C#\Componentes\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\NRtfTree.dll
+C:\Projetos\T2Ti ERP 2.0\C#\Componentes\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.csprojResolveAssemblyReference.cache
+C:\Projetos\T2Ti ERP 2.0\C#\Componentes\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.dll
+C:\Projetos\T2Ti ERP 2.0\C#\Componentes\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.pdb
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\ExportarParaArquivo.dll
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\ExportarParaArquivo.pdb
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\bin\Debug\NRtfTree.dll
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.csprojAssemblyReference.cache
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.csproj.CopyComplete
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.dll
+Z:\Visual Studio\SistemaPDV\ExportarParaArquivo\ExportarParaArquivo\obj\Debug\ExportarParaArquivo.pdb

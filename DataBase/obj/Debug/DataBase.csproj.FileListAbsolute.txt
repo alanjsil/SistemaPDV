@@ -1,0 +1,6 @@
+Z:\Visual Studio\SistemaPDV\DataBase\bin\Debug\DataBase.dll
+Z:\Visual Studio\SistemaPDV\DataBase\bin\Debug\DataBase.pdb
+Z:\Visual Studio\SistemaPDV\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+Z:\Visual Studio\SistemaPDV\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\SistemaPDV\DataBase\obj\Debug\DataBase.dll
+Z:\Visual Studio\SistemaPDV\DataBase\obj\Debug\DataBase.pdb
